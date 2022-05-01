@@ -1,5 +1,5 @@
 # LittleNews
-Welcome to LittleNews! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging. If you want to help, just read our articles so you get informed on what’s happening now on our world. If you like to even help us more, please give suggestions on our code. We make blogs likely every 6 to 16 days, and please, a reminder also too, this may take longer. And thanks for coming here at LittleNews!
+Welcome to LittleNews! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging. If you want to help, just read our articles so you get informed on what’s happening now on our world. If you like to even help us more, please give suggestions on our code. We make blogs likely every 5 to 15 days, and please, a reminder also too, this may take longer. And thanks for coming here at LittleNews!
 <br />
 <br />
 The link to the blogging website is below the text:
