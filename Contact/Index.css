@@ -29,17 +29,17 @@ font-family: 'Oswald', sans-serif;
   width: 200px;
   background-color: #f1f1f1;
 }
-Links-li a {
+.Links-li a {
   display: block;
   color: #000;
   padding: 8px 16px;
   text-decoration: none;
 }
-Links-li a.active {
+.Links-li a.active {
   background-color: #2e5cb8;
   color: white;
 }
-Links-li a:hover:not(.active) {
+.Links-li a:hover:not(.active) {
   background-color: #555;
   color: white;
 }
