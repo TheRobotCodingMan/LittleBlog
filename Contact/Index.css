@@ -1,3 +1,14 @@
+#Contact {
+border-style: solid;
+border-width: 3px;
+border-color: #004080;
+background-color: #666666;
+color: white;
+padding: 14px;
+float: right;
+width: calc(100% - 32%);
+font-family: 'Merriweather', serif;
+}
 #Topiclinks {
 float: left;
 width: 25%;
@@ -7,6 +18,9 @@ border-style: solid dashed solid solid;
 border-color: white;
 color: white;
 padding: 13px;
+}
+h1, h2, h3 {
+font-family: 'Oswald', sans-serif;
 }
 #Links {
   list-style-type: none;
