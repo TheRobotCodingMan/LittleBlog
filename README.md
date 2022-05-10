@@ -5,4 +5,4 @@ Welcome to LittleNews! We blog about nature, sports, health, space, and many mor
 The link to the blogging website is below the text:
 https://littlenews-home.netlify.app
 <br />
-**Note: The website is still under development and problems may occur. If that happends, please make suggestions here on github or contact me here -- royiv66485@wowcg.com -- This is a working one, but it changes once in 1 to 3 months.**
+**Note: The website is still under development and problems may occur. If that happends, please make suggestions here on github or contact me here -- vibix70256@angeleslid.com -- This is a working one, but it changes once in 2 to 4 months**
