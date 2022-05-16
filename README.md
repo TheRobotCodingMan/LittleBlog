@@ -1,8 +1,8 @@
 # LittleNews
 Welcome to LittleNews! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging. 
 ## Important notes
-### When We Make Blogs
-We make blogs likely every 5 to 15 days, and please, a reminder also too, this may take longer.
+### When We Make The Released Blog
+We make blogs likely every 5 to 15 days, and please, a reminder also too, this may take longer. Also, for further details, the article can be suspended for a month, since we need to gather information about the topic, proofread, and fact test.
 ### Others
 __Note: The website is still under development and problems may occur. If that happends, please make suggestions here on github or contact me here -- vibix70256@angeleslid.com -- This is a working one, but it changes once in 2 to 4 weeks__
 ## How To Support
