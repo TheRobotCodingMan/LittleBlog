@@ -15,3 +15,6 @@ Links to the blogging site:
 * https://littlenews-contact.netlify.app (Contact Page)
 * https://littlenews-about.netlify.app (About Page)
 * https://littlenews-articles.netlify.app (Articles)
+## What Is Netlify?
+Netlify is a web host that allows you to deploy your static site into their cdn and make a link that anyone who have internet can see. If you're planning to show your work to the public, use Netlify! __(I don't have any affiliate links with Netlify)__
+Click the link and get started: https://www.netlify.com/
