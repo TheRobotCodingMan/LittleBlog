@@ -1,7 +1,7 @@
 # LittleNews [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a82ea4bc-a3a0-41bc-94d9-858d032d3ef7/deploy-status)](https://app.netlify.com/sites/littlenews-contact/deploys)
 <br />
-Welcome to LittleNews! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging. And also please read this: https://github.com/TheRobotCodingMan/LittleNews/discussions/11
+Welcome to LittleNews! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging.
 ## Important notes
 ### When We Make The Released Blog
 We make blogs likely every 5 to 15 days, and please, a reminder also too, this may take longer. Also, for further details, the current article can be suspended for a month, since we need to gather information about the topic, proofread, and fact test.
