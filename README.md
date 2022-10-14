@@ -4,7 +4,7 @@
 Welcome to LittleBlog! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging.
 ## Important notes
 ### When We Make The Released Blog
-We make blogs likely every 5 to 15 days, and please, a reminder also too, this may take longer.
+We make blogs likely every 7 to 20 days, and please, a reminder also too, this may take longer.
 ### Others
 __Note: The website is still under development and problems may occur. If that happends, please make a discussion or/and an issue here on Github or contact me here -- chadrick.tobias22@gmail.com-- This is my personal email, so suspicious emails will not be answered.__
 ## How To Support
