@@ -14,7 +14,7 @@ Links to the blogging site:
 * https://littleblog-home.netlify.app (Homepage)
 * https://littleblog-contact.netlify.app (Contact Page)
 * https://littleblog-about.netlify.app (About Page)
-* https://littleblog-articles.netlify.app (Articles)
+* https://littleblog-blogs.netlify.app (Blogs)
 ## What Is Netlify?
 Netlify is a web host that allows you to deploy your static site into their cdn and make a link that anyone who have internet can see. If you're planning to show your work to the public, use Netlify! __(I don't have any affiliate links with Netlify)__
 Click the link and get started: https://www.netlify.com/
