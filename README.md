@@ -1,5 +1,5 @@
 # LittleBlog [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/efedf0b2-9ce1-469c-89bd-7b550d11fa90/deploy-status)](https://app.netlify.com/sites/littleblog-home/deploys)
+Homepage: [![Netlify Status](https://api.netlify.com/api/v1/badges/efedf0b2-9ce1-469c-89bd-7b550d11fa90/deploy-status)](https://app.netlify.com/sites/littleblog-home/deploys)
 <br />
 Welcome to LittleBlog! We blog about nature, sports, health, space, and many more. We don’t blog about conflicts or political issues since this may effect us and our blogging.
 ## Important notes
