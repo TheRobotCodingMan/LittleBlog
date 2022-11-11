@@ -29,8 +29,8 @@ ul.topnav li.right {float: right;}
 }
 
 body {
-	background-image: url("floor-tile.png");
-	font-family: sans-serif;
+  background-image: url("floor-tile.png");
+  font-family: sans-serif;
 }
 
 article {
